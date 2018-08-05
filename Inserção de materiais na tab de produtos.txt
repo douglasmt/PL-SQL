@@ -1,0 +1,1 @@
+insert into produto (id_produto, nome_produto) select mat_cod , mat_descricao from materiais
